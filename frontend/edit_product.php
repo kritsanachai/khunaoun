@@ -21,6 +21,5 @@ include("header_admin.php");
     <img width="100%" src="upload/<?php echo $data['img']; ?>" id="previewImg" alt="">
     <button id="UpdateProduct" class="btn btn-warning form-control my-4">อัพเดต</button>
 
- 
 </body>
 
